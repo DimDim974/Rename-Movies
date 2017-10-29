@@ -2,6 +2,7 @@
 
 # Requirements
 
+- Windows
 - python 3.0
 
 # Use
