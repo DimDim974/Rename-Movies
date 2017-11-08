@@ -1,5 +1,8 @@
 # rename-movies
 
+# Version
+- v1.0.5: Renommage des répertoires en plus des fichiers corrections effectuée.
+- v2: Comptatible avec les systèmes Linux
 # Requirements
 
 - Windows
