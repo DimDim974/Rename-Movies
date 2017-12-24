@@ -6,10 +6,11 @@
 # Requirements
 
 - Windows
-- python 3.0
+- Python 3.5
 
 # Use
-Place the two files ('data.dat' and 'list2.dat') in a following location "C:\Users\%USERNAME%\"
+- Launch the script from an interpreter of python. For exemple notepad++.
+- Place the two files ('data.dat' and 'list2.dat') in a following location "C:\Users\ %USERNAME% \"
   * data.dat : Reference all video files that have been renamed and their locations.
   * list2.dat : Reference all the terms that must be extracted from each file. It is possible to add terms, the spaces between terms are                   not taken into consideration.
   
