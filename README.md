@@ -3,7 +3,7 @@
 # Version
 - v1.0.5: Renommage des répertoires en plus des fichiers corrections effectuée / 
 - v1.1: Modification de l'en-tête de fichier / 
-- v2: Comptatible avec les systèmes Linux / 
+
 # Requirements
 
 - Windows
