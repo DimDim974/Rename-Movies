@@ -1,3 +1,13 @@
+###################################################
+##Auteur : Dimitri Sautron
+##Description : Main de l'application
+##Version : 1.1
+##Date de création : 01/07/2023
+##Fichier : Classe
+###################################################
+#
+#
+###################################################
 #Importation de la librairie
 import os 
 import hashlib

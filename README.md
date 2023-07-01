@@ -1,8 +1,9 @@
 # rename-movies
 
 # Version
-- v1.0.5: Renommage des répertoires en plus des fichiers corrections effectuée / 
-- v1.1: Modification de l'en-tête de fichier / 
+- v1.0.5: Renommage des répertoires en plus des fichiers corrections effectuée
+- v1.1: Modification de l'en-tête de fichier
+- v2 : Intégration d'une interface graphique
 
 # Requirements
 
