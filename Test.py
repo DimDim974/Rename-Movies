@@ -1,9 +1,14 @@
-import sys
-from tkinter import Widget
-from wsgiref.util import application_uri 
-application = application_uri(sys.argv)
-widget = Widget()
-widget.resize(250, 250)
-widget.setWindowTitle("Bonjour tout le monde !") 
-widget.show()
-application.exec_()
+#Importation de la librairie
+import os 
+import hashlib
+from tkinter import *
+from tkinter.filedialog import *
+import sqlite3
+from tkinter import ttk
+
+# Pour initialiser tkinter, nous devons créer un widget root Tk
+root = Tk()
+
+
+#Fin de la configuration de l'interface.
+root.mainloop()
