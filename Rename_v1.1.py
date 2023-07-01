@@ -16,7 +16,6 @@ import tkinter
 import os
 import platform
 import sys 
-from PyQt5.QtWidgets import QApplication, Qwidget
 
 OS=platform.system()
 print("=== Renommage en masse.py ===")

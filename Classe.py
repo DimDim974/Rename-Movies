@@ -9,5 +9,5 @@
 #
 #
 ###################################################
-class Traitement():
-    def __init__(self):
+# class Traitement():
+#     def __init__(self):
