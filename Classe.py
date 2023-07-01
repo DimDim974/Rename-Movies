@@ -11,3 +11,9 @@
 ###################################################
 # class Traitement():
 #     def __init__(self):
+#         self.champs = {
+#             'message': tk.StringVar(),
+#             'jour': tk.StringVar(),
+#             'choix': tk.IntVar(),
+#             'conditions': tk.BooleanVar(),
+#         }

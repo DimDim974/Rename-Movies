@@ -15,9 +15,17 @@ from tkinter import *
 from tkinter.filedialog import *
 import sqlite3
 from tkinter import ttk
+from typing import Self
 
 # Pour initialiser tkinter, nous devons créer un widget root Tk
 root = Tk()
+
+
+label = Label(root, text="Un message")
+label.grid(column=0, row=0)
+
+text = Entry(root,textvariable="message", width=50)
+text.grid(column=1, row=0)
 
 root.title("Rename")
 # root.iconbitmap('E:\\Project\\Nutrition\\Nutri.ico')
